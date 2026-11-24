@@ -72,7 +72,7 @@ The following enterprise platforms offer managed cloud hosting, automated data e
 
 ## 💻 Open-Source Frameworks & Tools
 
-This section highlights open-source repositories for local triple stores, neuro-symbolic reasoning frameworks, ontology editors, and graph-native memory systems for autonomous agents. Sorted descending by GitHub Stars_Count.
+This section highlights open-source repositories for local triple stores, neuro-symbolic reasoning frameworks, ontology editors, and graph-native memory systems for autonomous agents. Sorted descending by GitHub_Stars_Count.
 
 | Project | GitHub_Stars | Category | Core Tech Stack | Description |
 | :--- | :---: | :--- | :--- | :--- |
